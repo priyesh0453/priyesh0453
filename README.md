@@ -14,6 +14,7 @@
 - 👯 Tech, Finance & AI Lovers! Join me! **To cook some Impactful Solutions.**
 
 - 🌟 Extras: **Chess ♟, Pool 🎱, Guitar 🎸, Music Lover (Indie mostly nowadays) 🎵, Gym 💪, Cricket 🏏, Basketball 🏀, Badminton 🏸, Football ⚽, Lifelong Learner 📚, Photography 📷, and more!**
+<br/>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/priyesh-mishra-bits" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyesh-mishra-bits" height="30" width="40" /></a>
