@@ -46,9 +46,9 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyesh0453&show_icons=true&locale=en&layout=compact" alt="priyesh0453" style="width: 480px; height: 224px;" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyesh0453&show_icons=true&locale=en&layout=compact" alt="priyesh0453" style="width: 450px; height: 224px;" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyesh0453&show_icons=true&locale=en" alt="priyesh0453" style="width: 480px; height: 200px;" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=priyesh0453&show_icons=true&locale=en" alt="priyesh0453" style="width: 450px; height: 200px;" /></p>
 
 <br/>
 <div align="center">
