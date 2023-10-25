@@ -47,9 +47,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyesh0453&show_icons=true&locale=en&layout=compact" alt="priyesh0453" style="width: 400px; height: 224px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=priyesh0453&show_icons=true&locale=en" alt="priyesh0453" style="width: 400px; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyesh0453&show_icons=true&locale=en&layout=compact" alt="priyesh0453" style="width: 400px; height: 224px;" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=priyesh0453&show_icons=true&locale=en" alt="priyesh0453" style="width: 400px; height: 224px;" />
 </div>
+
 
 
 <br/>
