@@ -11,7 +11,7 @@ Most of my best work starts without a ticket. I find what is wrong, trace it to 
 Since July 2024, on a communications platform used by credit unions:
 
 - Front-end product surfaces built: a native email channel inside a text-first inbox, a third-party email campaigns integration, rich messaging with cards and carousels, campaign list and template management, the agent inbox, a phone dialer built from scratch, and member-data and consent controls.
-- Reliability: the real-time video domain, with HD video on all 32 observed calls, an audio fallback when a camera hangs, and a class of call failures that had no recorded cause, now classified in logs; a real-time operations dashboard; 10 applications that no longer knock each other offline.
+- Reliability: in about six weeks on the real-time video domain, built its observability from the ground up, 90+ telemetry events, cause-classified logs and clean-ups, and wrote 1,400+ unit tests; HD video on every observed call and an audio fallback when a camera hangs. Elsewhere, a real-time operations dashboard, and 10 applications that no longer knock each other offline.
 - Security: a legacy unsafe code path removed from 10 entry points, and one library upgrade covering 7 known vulnerabilities.
 - Escalations: traced to root cause across service and team boundaries, closed in 1-2 days instead of 5.
 - Quality and platform: unit testing taken from 2 applications to 8, the Node upgrade of 8 legacy applications and the React upgrade of 5 authored, the first now in production, and accessibility remediation.
@@ -36,7 +36,7 @@ Both tools are MIT-licensed reference designs, meant to be copied and changed. B
 
 ## Where I am most useful
 
-System design, software architecture, front-end architecture, reliability, application security, agentic AI, AI-native engineering, TypeScript, React, Rust, fintech.
+System Design • Software Architecture • Front-End Architecture • Reliability • Application Security • Agentic AI • AI-Native Engineering • TypeScript • React • Rust • Fintech
 
 ## Elsewhere
 
